@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Sasha 👋
 
-<!--
-**Sasha-Vlasova/Sasha-Vlasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Mathematics and Computer Science student at Carroll University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Current GPA: 3.975
+
+🔬 Research interests:
+- Probability
+- Differential Equations
+- Artificial Intelligence
+- Educational Technology
+
+💻 Technical Skills:
+- Java
+- Python
+- SQL
+- GitHub
+- LaTeX
+- MS Office
+
+## Current Goals
+
+- Build a strong software engineering portfolio
+- Learn AI and machine learning
+- Create educational technology projects
+- Prepare for internships and research opportunities
+- Develop MathMind AI
+
+## Current Projects
+
+### DegreeStack
+Team project focused on helping students and academic planning.
+
+### Portfolio Roadmap (In Progress)
+- Math Toolkit
+- Probability Visualizer
+- GRE Math Generator
+- MathMind AI
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sasha-vlasova
+- GitHub: Sasha-Vlasova
+- Email: avlasova@carrollu.edu
+
+Thanks for visiting my profile!
