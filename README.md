@@ -7,16 +7,14 @@
 📊 Current GPA: 3.975
 
 🔬 Research interests:
-- Probability
-- Differential Equations
 - Artificial Intelligence
+- Bio Technology
 - Educational Technology
 
 💻 Technical Skills:
 - Java
 - Python
 - SQL
-- GitHub
 - LaTeX
 - MS Office
 
@@ -35,8 +33,6 @@ Team project focused on helping students and academic planning.
 
 ### Portfolio Roadmap (In Progress)
 - Math Toolkit
-- Probability Visualizer
-- GRE Math Generator
 - MathMind AI
 
 ## Connect With Me
