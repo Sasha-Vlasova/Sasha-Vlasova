@@ -1,4 +1,4 @@
-# Hi, I'm Sasha 👋
+# Hi, I'm Sasha
 
 ## About Me
 
@@ -24,7 +24,6 @@
 - Learn AI and machine learning
 - Create educational technology projects
 - Prepare for internships and research opportunities
-- Develop MathMind AI
 
 ## Current Projects
 
