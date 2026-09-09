@@ -6,7 +6,7 @@
 
 📊 Current GPA: 3.975
 
-🔬 Research interests:
+🔬 Research & Work interests:
 - Artificial Intelligence
 - Bio Technology
 - Educational Technology
@@ -31,13 +31,12 @@
 Team project focused on helping students and academic planning.
 
 ### Portfolio Roadmap (In Progress)
-- Math Toolkit
-- MathMind AI
+
 
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/sasha-vlasova
 - GitHub: Sasha-Vlasova
-- Email: avlasova@carrollu.edu
+- Email: aleksandra.vlasova256@gmail.com
 
 Thanks for visiting my profile!
