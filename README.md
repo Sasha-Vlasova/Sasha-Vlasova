@@ -18,19 +18,9 @@
 - LaTeX
 - MS Office
 
-## Current Goals
-
-- Build a strong software engineering portfolio
-- Learn AI and machine learning
-- Create educational technology projects
-- Prepare for internships and research opportunities
-
-## Current Projects
 
 ### DegreeStack
 Team project focused on helping students and academic planning.
-
-### Portfolio Roadmap (In Progress)
 
 
 ## Connect With Me
